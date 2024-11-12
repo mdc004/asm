@@ -1,0 +1,14 @@
+	.orig x3000
+	
+	lea R3, lettera
+
+
+
+
+
+
+
+lettera	.fill x41
+
+
+	.end
